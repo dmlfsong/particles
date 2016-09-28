@@ -92,7 +92,7 @@ particlesJS('particles-js',
           "enable": true,
           "mode": "push"
         },
-        "resize": false
+        "resize": true
       },
       "modes": {
         "grab": {
